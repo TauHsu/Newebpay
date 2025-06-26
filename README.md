@@ -12,7 +12,7 @@
 - **後端框架**：Express
 - **資料庫**：PostgreSQL
 - **金流串接**：藍新金流
-  - [npm crypto](https://docs.google.com/document/d/1nVPBKYH3sq2TRhVvIVKyb49n3gqXKBiGmQd02dOceG0/edit?usp=drive_link) 進行訂單資料加密、解密
+  - [crypto](https://docs.google.com/document/d/1nVPBKYH3sq2TRhVvIVKyb49n3gqXKBiGmQd02dOceG0/edit?usp=drive_link) 進行訂單資料加密、解密
 
 ---
 
